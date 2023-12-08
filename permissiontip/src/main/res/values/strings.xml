@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PermissionTip</string>
+    <integer name="config_shortAnimTime">140</integer>
+</resources>
